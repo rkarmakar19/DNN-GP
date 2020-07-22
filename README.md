@@ -15,3 +15,11 @@ $ python DNN-GP.py
 Using Makefile, the command to test the model is:
 
 $ make test
+
+To train the model, the command is:
+
+$ python DNN-GP-training.py
+
+Using Makefile, the command to train the model is:
+
+$ make train
