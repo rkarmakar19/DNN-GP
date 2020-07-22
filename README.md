@@ -8,6 +8,10 @@ The dataset contains information regarding normalized throughput achieved under 
 # Output:
 After testing the model, the output would be Normalized Root Mean Square Error (NRMSE) in the prediction of normalized throughput under a channel condition and five link parameter set (mentioned above). NRMSE would be produced after each iteration.
 # Compile and Run:
+To train the model, use the command:
+
+$ python DNN-GP-training.py
+
 To compile and run "DNN-GP.py", use the command:  
 
 $ python DNN-GP.py
